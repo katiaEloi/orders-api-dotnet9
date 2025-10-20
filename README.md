@@ -1,3 +1,6 @@
+**🌍 Idiomas / Languages:**  
+🇪🇸 [Versión en Español](README.md) | 🇬🇧 [English Version](README.en.md)
+
 # 🧩 Orders API (.NET 9 Minimal)
 
 API REST creada con **.NET 9 Minimal API**, que gestiona una lista de pedidos en memoria.  
