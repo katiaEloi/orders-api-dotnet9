@@ -1,0 +1,6 @@
+@orders_api_dotnet9_HostAddress = http://localhost:5188
+
+GET {{orders_api_dotnet9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
